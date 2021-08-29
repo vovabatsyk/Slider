@@ -14,7 +14,7 @@ const data = [
     {
         src: 'assets/images/3. Леопард.jpg" alt="Slide',
         alt: 'Slide',
-        header: 'Eaque atque odit eum voluptate',
+        header: 'Eaque atque odit  voluptate',
         text: 'Odio earum deleniti quae accusamus quasi quas nobis, ratione fugiat. Eaque atque odit eum voluptate consequatur sit quas explicabo ratione ullam fuga.'
     },
     {
